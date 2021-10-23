@@ -1,0 +1,50 @@
+a {
+  /*color: #0074b7;*/
+  color: #00578a;
+  font-weight: 700;
+}
+
+a:hover {
+  color: #a6ce39;
+}
+
+.navbar.navbar-animedh .breadcrumb .nav-item .nav-link, 
+.navbar.navbar-animedh .navbar-nav .nav-item .nav-link {
+  /*color: #0074b7;*/
+  color: #00578a;
+  font-weight: 700;
+}
+
+.navbar.navbar-animedh .breadcrumb .nav-item .nav-link.active, 
+.navbar.navbar-animedh .navbar-nav .nav-item .nav-link.active {
+  /*color: #f5843d;*/
+  font-weight: 700;
+}
+
+.navbar.navbar-animedh .navbar-nav .nav-item .nav-link.active {
+  background: #00578a;
+  color: #fff;
+}
+
+.navbar.navbar-animedh .navbar-nav .nav-item .nav-link.active:hover {
+  background: #a6ce39;
+  color: #fff;
+}
+
+.navbar.navbar-animedh .breadcrumb .nav-item .nav-link:hover, 
+.navbar.navbar-animedh .navbar-nav .nav-item .nav-link:hover {
+  color: #a6ce39;
+}
+
+.navbar.navbar-animedh .brand img {
+  width: 180px;
+  height: auto;
+}
+
+#page-content {
+  margin-top: 57px;
+}
+
+.blog-social-sharing i {
+  font-size: 2rem;
+}
