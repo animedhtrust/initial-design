@@ -1,0 +1,26 @@
+{
+  "name": "animedh",
+  "version": "1.0.0",
+  "description": "Animedh Charitable Trust",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "chokidar": "node chokidar.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {},
+  "keywords": [
+    "animedh"
+  ],
+  "author": "Nishant Vaity",
+  "bugs": {},
+  "homepage": "https://www.animedhtrust.org/",
+  "dependencies": {
+    "@node-minify/clean-css": "^6.2.0",
+    "@node-minify/core": "^6.2.0",
+    "@node-minify/no-compress": "^6.2.0",
+    "@node-minify/uglify-js": "^6.2.0",
+    "child_process": "^1.0.2",
+    "chokidar": "^3.5.2"
+  }
+}
